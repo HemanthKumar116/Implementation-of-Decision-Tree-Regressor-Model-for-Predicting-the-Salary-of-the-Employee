@@ -55,7 +55,6 @@ dt.predict([[5,6]])
 ![image](https://github.com/user-attachments/assets/836e3b52-b9f2-4516-89e9-5fc1a8237b0f)
 ![image](https://github.com/user-attachments/assets/fc5b766d-ad86-4a9e-a197-431999496109)
 ![image](https://github.com/user-attachments/assets/60063972-1051-4836-b97b-1b820b8a0a7b)
-![image](https://github.com/user-attachments/assets/58aebb6c-e41f-4842-8133-fbe6a06fda06)
 
 
 
